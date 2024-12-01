@@ -66,4 +66,4 @@ Connect your Web2 application to the IPFS network using standard HTTP:
 Are you developing with IPFS implementations and tools, and looking for technical support from IPFS experts? For the fastest possible assistance and resolution of your support needs, see the [guide to getting technical help and support](./community/README.md#get-technical-support-and-help).
 :::
 
-IPFS has a bustling community of designers, developers, writers, and activists who are all helping to improve the project. Find out about the events and resources available, and how to get involved in the [Community section](./community/README.md)
+Join the vibrant IPFS community, where designers, developers, writers, and activists come together to enhance the project and make a real impact! We invite you to explore the exciting events and valuable resources available to you. Discover how you can get involved and contribute to our collective mission in the [Community section](./community/README.md)
